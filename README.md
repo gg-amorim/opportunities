@@ -1,2 +1,2 @@
-# opportunities
-API em Go
+# Opportunities
+Go API
